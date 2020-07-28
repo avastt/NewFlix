@@ -1,163 +1,81 @@
 {
     "categorias": [
       {
-        "titulo": "Front End",
-        "link": "https://www.alura.com.br/formacao-front-end",
-        "cor": "#6BD1FF",
+        "titulo": "Runescape Legacy",
+        "link": "",
+        "cor": "#DB202C",
         "videos": [
           {
-            "titulo": "Angular: Atualizando projetos para Angular v10 e novidades",
-            "url": "https://www.youtube.com/watch?v=QgdBM2VUW10"
+            "titulo": "New Power x Wicked Fury [JAGEX CUP]",
+            "url": "https://www.youtube.com/watch?v=FBHh9yzl7QE&t=7s"
           },
           {
-            "titulo": "NextJS - O que é? Qual diferença entre SSG, SPA, SSR? Quando usar?",
-            "url": "https://www.youtube.com/watch?v=X3W-YFe2_io"
+            "titulo": "New Power x Downfall",
+            "url": "https://www.youtube.com/watch?v=NlIdm26eqOE"
           },
           {
-            "titulo": "O poderoso combo: NextJS + Tailwindcss",
-            "url": "https://www.youtube.com/watch?v=cV3q3OnxmA8"
+            "titulo": "New Power x Titans Revolution",
+            "url": "https://www.youtube.com/watch?v=j1zhyFWQ4vI"
           },
           {
-            "titulo": "Pare de chutar e aprenda a display: inline #01",
-            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+            "titulo": "New Power x Crazed Pkers",
+            "url": "https://www.youtube.com/watch?v=_Zzjt1i9cNw"
           },
           {
-            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+            "titulo": "New Power x Poison",
+            "url": "https://www.youtube.com/watch?v=h7vN754V-3w"
           },
           {
-            "titulo": "Novidades do Angular v9",
-            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-          },
-          {
-            "titulo": "Base para aprender os frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-          }        
+            "titulo": "New Power x Clan Europe",
+            "url": "https://www.youtube.com/watch?v=P_D5VLjCjFo"
+          }       
         ]
       },
       {
-        "titulo": "Back End",
-        "cor": "#00C86F",
+        "titulo": "Runescape 3 EOC",
+        "cor": "#DB202C",
         "videos": [
           {
-            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+            "titulo": "New Power x Clan Europe",
+            "url": "https://www.youtube.com/watch?v=Q0SE-AAVQBI"
           },
           {
-            "titulo": "Tailwind CSS - Curso rápido",
-            "url": "https://www.youtube.com/watch?v=1qH3wAtX4So"
+            "titulo": "New Power x Clan of RA",
+            "url": "https://www.youtube.com/watch?v=EowLHdCxMlI"
           },
           {
-            "titulo": "O Guia +Hardcore de Introdução à COMPUTAÇÃO",
-            "url": "https://www.youtube.com/watch?v=8G80nuEyDN4"
+            "titulo": "New Power x Nite Crew",
+            "url": "https://www.youtube.com/watch?v=sPxZezjZ99Y"
           },
           {
-            "titulo": "API: Dicionário do Programador",
-            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+            "titulo": "New Power x K7 Clan Br",
+            "url": "https://www.youtube.com/watch?v=nKfBR_-Byi0"
           }, 
           {
-            "titulo": "Usando Git Direito",
-            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+            "titulo": "New Power x Woh Clan Br",
+            "url": "https://www.youtube.com/watch?v=TU5kSjfLgyc"
           }
         ]
       },
       {
-        "titulo": "Science",
-        "cor": "#9cd33b",
+        "titulo": "Runescape OldSchool",
+        "cor": "#DB202C",
         "videos": [
           {
-            "titulo": "TIMELAPSE OF THE FUTURE: A Journey to the End of Time",
-            "url": "https://www.youtube.com/watch?v=uD4izuDMUQA"
+            "titulo": "New Power x KCR",
+            "url": "https://www.youtube.com/watch?v=sr1ULqA_WzM"
           },
           {
-            "titulo": "The Infinite Hotel Paradox - Jeff Dekofsky",
-            "url": "https://www.youtube.com/watch?v=Uj3_KqkI9Zo"
+            "titulo": "New Power x Heroes War",
+            "url": "https://www.youtube.com/watch?v=cSs-BHQ6yNw"
           },
           {
-            "titulo": "Why self discipline its so hard?",
-            "url": "hhttps://www.youtube.com/watch?v=mVbrgBjZm60"
+            "titulo": "New Power x Latin Crew",
+            "url": "https://www.youtube.com/watch?v=d3eC-wyTHgs"
           },
           {
-            "titulo": "Imagining the Tenth Dimension (annotated)",
-            "url": "https://www.youtube.com/watch?v=XjsgoXvnStY"
-          },
-          {
-            "titulo": "A filosofia do estoicismo - Massimo Pigliucci",
-            "url": "https://www.youtube.com/watch?v=R9OCA6UFE-0"
-          },
-          {
-            "titulo": "O Que Aconteceu Antes da História? Origens da Humanidade",
-            "url": "https://www.youtube.com/watch?v=dGiQaabX3_o"
-          },
-          {
-            "titulo": "O Paradoxo de Fermi - Somos Todos Nós Alienigenas? (1/2)",
-            "url": "https://www.youtube.com/watch?v=sNhhvQGsMEc"
-          },
-          {
-            "titulo": "A Realidade é Real? A teoria da Simulação",
-            "url": "https://www.youtube.com/watch?v=tlTKTTt47WE&list=WL"
-          },
-          {
-            "titulo": "How to Waste Your Life | A Short Film on Video-Game Addiction",
-            "url": "https://www.youtube.com/watch?v=TFS7Zybkx9s"
-          }
-        ]
-      },
-      {
-        "titulo": "Movies",
-        "cor": "orange",
-        "videos": [
-          {
-            "titulo": "Interestellar",
-            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-          },
-          {
-            "titulo": "Inception",
-            "url": "https://www.youtube.com/watch?v=YoHD9XEInc0"
-          },
-          {
-            "titulo": "Life is Bealtiful",
-            "url": "https://www.youtube.com/watch?v=pAYEQP8gx3w"
-          },
-          {
-            "titulo": "JOJO RABBIT",
-            "url": "https://www.youtube.com/watch?v=-ilPoupBusg"
-          }
-        ]
-      },
-      {
-        "titulo": "Docs",
-        "cor": "red",
-        "videos": [
-          {
-            "titulo": "O Código Bill Gates | Trailer oficial | Netflix",
-            "url": "https://www.youtube.com/watch?v=yOCjrGevsdo"
-          }
-        ]
-      },
-      {
-        "titulo": "Larning how to learn",
-        "cor": "#6b5be2",
-        "videos": [
-          {
-            "titulo": "Como estudar melhor?",
-            "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-          },
-          {
-            "titulo": "Faculdade",
-            "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-          },
-          {
-            "titulo": "Guia DEFINITIVO de Aprendendo a Aprender",
-            "url": "https://www.youtube.com/watch?v=oUPaJxk6TZ0"
-          },
-          {
-            "titulo": "A mágica do Aprendizado",
-            "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-          },
-          {
-            "titulo": "Como aprender a programar?",
-            "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+            "titulo": "New Power x Team Defiance",
+            "url": "https://www.youtube.com/watch?v=PMDjIjX8xjU"
           }
         ]
       }

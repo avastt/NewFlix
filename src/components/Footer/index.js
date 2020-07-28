@@ -4,14 +4,14 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+      <a href="">
+        <img src="https://media.discordapp.net/attachments/703328683120787527/722056126023073822/unknown.png" alt="New Power" />
       </a>
       <p>
-        Orgulhosamente criado durante a
+        Red Nation
         {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+        <a href="">
+          New Power inc.
         </a>
       </p>
     </FooterBase>
