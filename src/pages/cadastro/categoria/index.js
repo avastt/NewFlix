@@ -9,6 +9,7 @@ function CadastroCategoria(){
 
           
 
+
           <Link to="/">
             Ir para Home
           </Link>
